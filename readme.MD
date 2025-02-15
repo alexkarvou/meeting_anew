@@ -76,3 +76,10 @@ AI refines the model iteratively until consensus is reached (or deadlock is flag
 
 Ensures transparency & accountability (prevents later disputes).
 If needed, smart contracts trigger automated actions (e.g., fund allocation).
+
+
+## Next steps
+* [ ] Specify the smallest first application on the friends level
+* [ ] Design the most appropriate stack & infra 
+* [ ] Design a figma page (single page whole app)
+* [ ] Decide about the blockchain layer and if i can use off the shelf Azure BaaS
