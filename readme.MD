@@ -83,3 +83,10 @@ If needed, smart contracts trigger automated actions (e.g., fund allocation).
 * [ ] Design the most appropriate stack & infra 
 * [ ] Design a figma page (single page whole app)
 * [ ] Decide about the blockchain layer and if i can use off the shelf Azure BaaS
+
+
+
+# Optimal first niche 
+* Group of friends organization for a trip 
+* Status update for a project (like digital PO)
+* Government straight away (land registries, customs & import/export, business licensing, tax automation)
